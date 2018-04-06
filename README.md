@@ -10,6 +10,7 @@ Clever Capsaicin is a recommendation engine built to bring you out of your comfo
 - [K-Nearest Neighbors](#k-nearest-neighbors)
 - [Cosine Similarity](#cosine-similarity)
 - [Results / Demo](#results--demo)
+- [Visualization using t-SNE](#visualization-using-t-sne)
 - [What's Next?](#whats-next)
 - [References](#references)
 
@@ -24,6 +25,8 @@ Clever Capsaicin is a recommendation engine built to bring you out of your comfo
 ### Cosine Similarity:
 
 ### Results / Demo:
+
+### Visualization using t-SNE:
 
 ### What's Next?
 
