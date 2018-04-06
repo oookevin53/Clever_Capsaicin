@@ -4,8 +4,8 @@ Clever Capsaicin is a recommendation engine built to bring you out of your comfo
 
 ### Table of Contents
 
-- Introduction
-- Data Collection
+[- Introduction](#introduction)
+[- Data Collection]
 - Content-based vs Collaborative Filtering
 - K-Nearest Neighbors
 - Cosine Similarity
