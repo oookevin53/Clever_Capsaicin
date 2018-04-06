@@ -16,6 +16,9 @@ Clever Capsaicin is a recommendation engine built to bring you out of your comfo
 
 ### Introduction:
 
+
+After all, everybody could use a little extra spice in life.
+
 ### Data Collection:
 
 ### Content-based vs Collaborative Filtering:
