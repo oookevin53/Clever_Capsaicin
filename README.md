@@ -6,25 +6,25 @@ Clever Capsaicin is a recommendation engine built to bring you out of your comfo
 
 - [Introduction](#introduction)
 - [Data Collection](#data-collection)
-- [Content-based vs Collaborative Filtering]
-- [K-Nearest Neighbors]
-- [Cosine Similarity]
-- [Results / Demo]
-- [What's Next?]
-- [References]
+- [Content-based vs Collaborative Filtering](#content-based-vs-collaborative-filtering)
+- [K-Nearest Neighbors](#k-nearest-neighbors)
+- [Cosine Similarity](#cosine-similarity)
+- [Results / Demo](#results--demo)
+- [What's Next?](#whats-next)
+- [References](#references)
 
-### Introduction
+### Introduction:
 
-### Data Collection
+### Data Collection:
 
-### Content-based vs Collaborative Filtering
+### Content-based vs Collaborative Filtering:
 
-### K-Nearest Neighbors
+### K-Nearest Neighbors:
 
-### Cosine Similarity
+### Cosine Similarity:
 
-### Results / Demo
+### Results / Demo:
 
 ### What's Next?
 
-### References
+### References:
