@@ -16,7 +16,7 @@ Clever Capsaicin is a recommendation engine built to bring you out of your comfo
 
 ## Introduction:
 
-All I knew was Sriracha (or Rooster Sauce as I've seen it called) growing up. Whether I'm having a bowl of soup or a slice of pizza, you'd know I was putting Sriracha on it. As I began to venture deeper into the hot sauce world, I became more familiar with the household names like Tabasco, Frank's or Cholula, but, in my opinion, none of them were quite the same. I always found myself circling back to Sriracha.
+All I knew was Sriracha (or Rooster Sauce as I've seen it called) growing up. Whether I'm having a bowl of noodles or a bacon, egg, and cheese breakfast sandwich, you'd know I was putting Sriracha on it. As I began to venture deeper into the hot sauce world, I became more familiar with the household names like Tabasco, Frank's or Cholula, but, in my opinion, none of them were quite the same. I always found myself circling back to Sriracha.
 
 ![alt text](https://github.com/oookevin53/Clever_Capsaicin/blob/master/images/common_sauces.png "Look familiar?")
 
