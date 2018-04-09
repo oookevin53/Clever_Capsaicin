@@ -1,8 +1,8 @@
-## Clever Capsaicin
+# Clever Capsaicin
 
 Clever Capsaicin is a recommendation engine built to bring you out of your comfort zone. Find and discover new hot sauces that were made just for your taste buds!
 
-### Table of Contents
+## Table of Contents
 
 - [Introduction](#introduction)
 - [Data Collection](#data-collection)
@@ -14,23 +14,27 @@ Clever Capsaicin is a recommendation engine built to bring you out of your comfo
 - [What's Next?](#whats-next)
 - [References](#references)
 
-### Introduction:
+## Introduction:
 
-All I knew was Sriracha (or Rooster Sauce as I've seen it called) growing up. Whether I was having a bowl of soup or a slice of pizza, you'd know I was putting Sriracha on that. As I grew older, I became more familiar with the household names like Tabasco, Frank's or Cholula but none of them were quite the same in my opinion. I always found myself circling back to Sriracha. That brings me to the motivation of this project. 
+All I knew was Sriracha (or Rooster Sauce as I've seen it called) growing up. Whether I was having a bowl of soup or a slice of pizza, you'd know I was putting Sriracha on that. As I grew older, I became more familiar with the household names like Tabasco, Frank's or Cholula but none of them were quite the same in my opinion. I always found myself circling back to Sriracha.
+
+![alt text](https://github.com/oookevin53/Clever_Capsaicin/blob/master/images/common_sauces.png "Look familiar?")
+
+That brings me to the motivation of this project.
 After all, everybody could use a little extra spice in life.
 
-### Data Collection:
+## Data Collection:
 
-### Content-based vs Collaborative Filtering:
+## Content-based vs Collaborative Filtering:
 
-### K-Nearest Neighbors:
+## K-Nearest Neighbors:
 
-### Cosine Similarity:
+## Cosine Similarity:
 
-### Results / Demo:
+## Results / Demo:
 
-### Visualization using t-SNE:
+## Visualization using t-SNE:
 
-### What's Next?
+## What's Next?
 
-### References:
+## References:
