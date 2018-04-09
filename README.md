@@ -26,6 +26,8 @@ Even if you don't have a high tolerance for spicy food, you only have to pick 1 
 
 ## Data Collection:
 
+
+
 ## Content-based vs Collaborative Filtering:
 
 ## K-Nearest Neighbors:
