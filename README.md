@@ -16,7 +16,7 @@ Clever Capsaicin is a recommendation engine built to bring you out of your comfo
 
 ### Introduction:
 
-
+All I knew was Sriracha (or Rooster Sauce as I've seen it called) growing up. Whether I was having a bowl of soup or a slice of pizza, you'd know I was putting Sriracha on that. As I grew older, I became more familiar with the household names like Tabasco, Frank's or Cholula but none of them were quite the same in my opinion. I always found myself circling back to Sriracha. That brings me to the motivation of this project. 
 After all, everybody could use a little extra spice in life.
 
 ### Data Collection:
