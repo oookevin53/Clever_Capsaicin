@@ -20,6 +20,10 @@ All I knew was Sriracha (or Rooster Sauce as I've seen it called) growing up. Wh
 
 ![alt text](https://github.com/oookevin53/Clever_Capsaicin/blob/master/images/common_sauces.png "Look familiar?")
 
+I recently discovered a Youtube series called "Hot Ones"
+
+![alt text](https://github.com/oookevin53/Clever_Capsaicin/blob/master/images/hot_ones.png "Hot Ones?")
+
 That brings me to the motivation of this project. If any hot sauce enthusiast out there is like me, then you're always struggling to fight the masochist in you while seeking a balance of heat and flavor. How do I find hot sauces like Sriracha but hotter?
 
 Even if you don't have a high tolerance for spicy food, you only have to like 1 sauce for a recommendation. After all, everybody could use a little extra spice in life.
