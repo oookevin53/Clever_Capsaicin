@@ -30,11 +30,17 @@ Even if you don't have a high tolerance for spicy food, you only have to like 1 
 
 ## Data Collection:
 
-The images and metadata used in the this project was scraped from [Heat Hot Sauce Shop](https://heathotsauce.com/) and [Amazon](https://www.amazon.com/) (sorry if you're reading this).
+The images and metadata used in the this project were scraped from [Heat Hot Sauce Shop](https://heathotsauce.com/) and [Amazon](https://www.amazon.com/) (sorry if you're reading this).
+
+The features used include:
+- Ingredients (type of peppers used, fruits, etc.)
+- Flavor profile (smoky, sweet, tangy, etc.)
+- Heat level
+- If the sauce was featured on a show/blog
 
 ### Challenges:
 
-
+A challenge I came across when cleaning the data was the ingredients labels had different names for the same type of pepper. An example of this would be the infamous ghost pepper. Another name for the ghost pepper is bhuk jolokia. Another example is the hatch chiles. While some would argue they are different because of where they are grown, for the purpose of this project, hatch chiles are synonymous with Anaheim peppers or New Mexico chiles.
 
 ## Content-based vs Collaborative Filtering:
 
