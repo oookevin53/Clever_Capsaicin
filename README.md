@@ -40,9 +40,9 @@ The features used include:
 
 ### Challenges:
 
-- A challenge I came across when cleaning the data was the ingredients labels had different names for the same type of pepper. An example of this would be the infamous ghost pepper. Another name for the ghost pepper is bhuk jolokia. Another example is the hatch chile pepper. While some would argue they are different because of the location they're grown, for the purpose of this project, hatch chiles are synonymous for Anaheim peppers or New Mexico chiles.
-- Lack of user Data
-- How to score recommendations?
+1. A challenge I came across when cleaning the data was the ingredients labels had different names for the same type of pepper. An example of this would be the infamous ghost pepper. Another name for the ghost pepper is bhuk jolokia. Another example is the hatch chile pepper. While some would argue they are different because of the location they're grown, for the purpose of this project, hatch chiles are synonymous for Anaheim peppers or New Mexico chiles.
+2. Lack of user Data - Explained in [Content-based vs Collaborative Filtering](#content-based-vs-collaborative-filtering) section
+3. How to score recommendations?
 
 ## Content-based vs Collaborative Filtering:
 
