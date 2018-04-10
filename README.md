@@ -40,24 +40,35 @@ The features used include:
 
 ### Challenges:
 
-1. A challenge I came across when cleaning the data was the ingredients labels had different names for the same type of pepper. An example of this would be the infamous ghost pepper. Another name for the ghost pepper is bhuk jolokia. Another example is the hatch chile pepper. While some would argue they are different because of the location they're grown, for the purpose of this project, hatch chiles are synonymous for Anaheim peppers or New Mexico chiles.
-2. Lack of user Data - Explained in [Content-based vs Collaborative Filtering](#content-based-vs-collaborative-filtering) section
-3. How to score recommendations?
+1. A challenge I came across when cleaning the data was the ingredients section had different names for the same ingredient. An example of this would be the infamous ghost pepper. The ghost pepper is also known as bhuk jolokia. Another example is the hatch chile pepper. While some would argue the following are different because of the location they're grown, for the purpose of this project, hatch chiles are synonymous with Anaheim peppers or New Mexico chiles.
+2. Lack of user Data - Explained in the [Content-based vs Collaborative Filtering](#content-based-vs-collaborative-filtering) section
+3. Cold Start problem - - Explained in the [Content-based vs Collaborative Filtering](#content-based-vs-collaborative-filtering) section
+4. How to score recommendations?
 
 ## Content-based vs Collaborative Filtering:
 
-explain both types and differences and why content is better
-hot sauce recommendations using content vs collaborative
+- explain both types and differences and why content is better
+- hot sauce recommendations using content vs collaborative
 
 ## K-Nearest Neighbors:
 
+
+
 ## Cosine Similarity:
+
+
 
 ## Results / Demo:
 
+
+
 ## Visualization using t-SNE:
 
+
+
 ## What's Next?
+
+
 
 ## References:
 
