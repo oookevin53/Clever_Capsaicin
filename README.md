@@ -30,7 +30,7 @@ Even if you don't have a high tolerance for spicy food, you only have to like 1 
 
 ## Data Collection:
 
-The data used in the this project was scraped from
+The images and metadata used in the this project was scraped from [Heat Hot Sauce Shop](https://heathotsauce.com/) and [Amazon](https://www.amazon.com/) (sorry if you're reading this).
 
 ### Challenges:
 
