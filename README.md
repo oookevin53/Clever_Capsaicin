@@ -30,7 +30,7 @@ Even if you don't have a high tolerance for spicy food or suddenly feel like ste
 
 ## Data Collection:
 
-The images and metadata used in the this project were scraped from [Heat Hot Sauce Shop](https://heathotsauce.com/) and [Amazon](https://www.amazon.com/) (sorry if you're reading this).
+The images and metadata used in the this project were scraped from [Heat Hot Sauce Shop](https://heathotsauce.com/) and [Amazon](https://www.amazon.com/) and stored via MongoDB.
 
 The features used include:
 - Ingredients (type of peppers used, fruits, etc.)
@@ -41,7 +41,7 @@ The features used include:
 ### Challenges:
 
 1. A challenge I came across when cleaning the data was the ingredients section had different names for the same ingredient. An example of this would be the infamous ghost pepper. The ghost pepper is also known as bhuk jolokia. Another example is the hatch chile pepper. While some would argue the following are different because of the location they're grown, for the purpose of this project, hatch chiles are synonymous with Anaheim peppers or New Mexico chiles.
-2. Lack of user Data - Explained in the [Content-based vs Collaborative Filtering](#content-based-vs-collaborative-filtering) section
+2. The world of hot sauce is a very niche market Lack of user Data - Explained in the [Content-based vs Collaborative Filtering](#content-based-vs-collaborative-filtering) section
 3. Cold Start problem - - Explained in the [Content-based vs Collaborative Filtering](#content-based-vs-collaborative-filtering) section
 4. How to score recommendations?
 
