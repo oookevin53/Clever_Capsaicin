@@ -22,13 +22,20 @@ All I knew was Sriracha (or Rooster Sauce as I've seen it called) growing up. Wh
 
 That brings me to the motivation of this project. If any hot sauce enthusiast out there is like me, then you're always struggling to fight the masochist in you while seeking a balance of heat and flavor. How do I find hot sauces like Sriracha but hotter?
 
-Even if you don't have a high tolerance for spicy food, you only have to pick 1 sauce for a recommendation. After all, everybody could use a little extra spice in life.
+Even if you don't have a high tolerance for spicy food, you only have to like 1 sauce for a recommendation. After all, everybody could use a little extra spice in life.
 
 ## Data Collection:
+
+The data used in the this project was scraped from
+
+### Challenges:
 
 
 
 ## Content-based vs Collaborative Filtering:
+
+explain both types and differences
+hot sauce recommendations using content vs collaborative
 
 ## K-Nearest Neighbors:
 
