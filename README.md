@@ -26,7 +26,7 @@ I recently discovered a Youtube series called "Hot Ones." The underlying theme o
 
 That brings me to the motivation of this project. If any hot sauce enthusiast out there is like me, then you're always struggling to fight the masochist in you while seeking a balance of heat and flavor. How do I find hot sauces like Sriracha but hotter and lesser-known?
 
-Even if you don't have a high tolerance for spicy food or suddenly feel like trekking out of your comfort zone, you only have to like 1 sauce for a recommendation. After all, everybody could use a little extra spice in life.
+Even if you don't have a high tolerance for spicy food or suddenly feel like stepping out of your comfort zone, you only have to like 1 sauce for a recommendation. After all, everybody could use a little extra spice in life.
 
 ## Data Collection:
 
@@ -58,3 +58,7 @@ hot sauce recommendations using content vs collaborative
 ## What's Next?
 
 ## References:
+
+- http://infolab.stanford.edu/~ullman/mmds/ch9.pdf
+- https://beckernick.github.io/law-clustering/
+- http://blog.untrod.com/2016/06/simple-similar-products-recommendation-engine-in-python.html
