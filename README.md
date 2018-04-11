@@ -45,8 +45,7 @@ The features used include:
 3. The biggest challenge a recommendation system faces is the "Cold Start Problem."
     * How can the system
     * What happens
-
-Explained in the [Content-based vs Collaborative Filtering](#content-based-vs-collaborative-filtering) section
+   Explained in the [Content-based vs Collaborative Filtering](#content-based-vs-collaborative-filtering) section
 4. How to score recommendations?
 
 ## Content-based vs Collaborative Filtering:
