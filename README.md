@@ -42,7 +42,7 @@ The features used include:
 
 1. A challenge I came across when cleaning the data was the ingredients section had different names for the same ingredient. An example of this would be the infamous ghost pepper. The ghost pepper is also known as bhuk jolokia. Another example is the hatch chile pepper. While some would argue the following are different because of the location they're grown, for the purpose of this project, hatch chiles are synonymous with Anaheim peppers or New Mexico chiles.
 2. The world of hot sauce is a very niche market. IMBD exists for movies reviews and Yelp for restaurant reviews, however, there isn't a single source with abundant user data for hot sauce.
-3. How do you evaluate the performance of a recommender system? Unlike some other machine learning models, there aren't necessarily true values to compare the outputs of the system. What does it really mean to have a correct or incorrect recommendation?
+3. How do you evaluate the performance of a recommender system? Unlike some other machine learning models, there aren't necessarily true values to compare the outputs of the system with. What does it really mean to have a correct or incorrect recommendation?
 4. The biggest challenge a recommender system faces is the "Cold Start Problem."
     * How do recommender systems handle new users?
     * What about new items?
@@ -55,15 +55,14 @@ Pandora Radio  Spotify. Netflix - Hybrid
 - explain both types and differences and why content is better
 - hot sauce recommendations using content vs collaborative
 
-It would be difficult to combine user reviews from different websites, for example, Amazon and Heat Hot Sauce Shop, as the two population of users are not homogenous. Heat Hot Sauce Shop allows users to review the hot sauces in their database whereas Amazon has a different collection of hot sauces and is not limited to hot sauce reviews. In this case, giving a recommendation based on hot sauces a user has tried before is more practical than giving a recommendation based on other users with similar taste. I will elaborate further on this in the next section.
-
 ## K-Nearest Neighbors:
 
 
 
 ## Cosine Similarity:
 
-
+- Vectorization
+- TF-IDF Vectors
 
 ## Results / Demo:
 
@@ -75,7 +74,7 @@ It would be difficult to combine user reviews from different websites, for examp
 
 ## What's Next?
 
-
+It would be difficult to combine user reviews from different websites, for example, Amazon and Heat Hot Sauce Shop, as the two population of users are not homogenous. Heat Hot Sauce Shop allows users to review the hot sauces in their database whereas Amazon has a different collection of hot sauces and is not limited to hot sauce reviews. In this case, giving a recommendation based on hot sauces a user has tried before is more practical than giving a recommendation based on other users with similar taste. I will elaborate further on this in the next section.
 
 ## References:
 
