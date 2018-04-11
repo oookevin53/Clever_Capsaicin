@@ -41,8 +41,11 @@ The features used include:
 ### Challenges:
 
 1. A challenge I came across when cleaning the data was the ingredients section had different names for the same ingredient. An example of this would be the infamous ghost pepper. The ghost pepper is also known as bhuk jolokia. Another example is the hatch chile pepper. While some would argue the following are different because of the location they're grown, for the purpose of this project, hatch chiles are synonymous with Anaheim peppers or New Mexico chiles.
-2. The world of hot sauce is a very niche market. IMBD exists for movies reviews and Yelp for restaurant reviews, however, there isn't a single source with abundant user data for hot sauce. It would be difficult to combine user reviews from different websites, for example, Amazon and Heat Hot Sauce Shop, as the two population of users are not homogenous. Heat Hot Sauce Shop allows users to review the hot sauces in their database whereas Amazon has a different collection of hot sauces and does not only have hot sauce reviews. In this case, giving a recommendation based on hot sauces a user has had before is more practical than giving a recommendation based on other users with similar taste. I will elaborate further in the [Content-based vs Collaborative Filtering](#content-based-vs-collaborative-filtering) section.
-3. Cold Start problem - - Explained in the [Content-based vs Collaborative Filtering](#content-based-vs-collaborative-filtering) section
+2. The world of hot sauce is a very niche market. IMBD exists for movies reviews and Yelp for restaurant reviews, however, there isn't a single source with abundant user data for hot sauce. It would be difficult to combine user reviews from different websites, for example, Amazon and Heat Hot Sauce Shop, as the two population of users are not homogenous. Heat Hot Sauce Shop allows users to review the hot sauces in their database whereas Amazon has a different collection of hot sauces and does not only have hot sauce reviews. In this case, giving a recommendation based on hot sauces a user has had before is more practical than giving a recommendation based on other users with similar taste. I will elaborate further on this in the [Content-based vs Collaborative Filtering](#content-based-vs-collaborative-filtering) section.
+3. The biggest challenge a recommendation system faces is the "Cold Start Problem."
+* How can the system
+* What happens
+Explained in the [Content-based vs Collaborative Filtering](#content-based-vs-collaborative-filtering) section
 4. How to score recommendations?
 
 ## Content-based vs Collaborative Filtering:
