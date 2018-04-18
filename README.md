@@ -10,7 +10,7 @@ Clever Capsaicin is a recommendation engine built to bring you out of your comfo
 - [K-Nearest Neighbors](#k-nearest-neighbors)
 - [Cosine Similarity](#cosine-similarity)
 - [Results / Demo](#results--demo)
-- [Visualization using t-SNE](#visualization-using-t-sne)
+- [Clustering with K-Means and t-SNE](#visualization-using-t-sne)
 - [What's Next?](#whats-next)
 - [References](#references)
 
@@ -20,7 +20,7 @@ All I knew was Sriracha (or Rooster Sauce as I've seen it called) growing up. Wh
 
 ![alt text](https://github.com/oookevin53/Clever_Capsaicin/blob/master/images/common_sauces.png "Look familiar?")
 
-I recently discovered a Youtube series called "Hot Ones." The underlying theme of the show is an interview of celebrities while eating chicken wings covered in hot sauce that becomes progressively hotter and hotter. It was only natural me to open this Pandora's box as the show had introduced many new "artisanal" sauces I had never seen before.
+I recently discovered a Youtube series called "Hot Ones." The underlying theme of the show is an interview of celebrities while eating chicken wings covered in hot sauce that become progressively hotter and hotter. It was only natural me to open this Pandora's box as the show had introduced many new "artisanal" sauces I had never seen before.
 
 <img src="https://github.com/oookevin53/Clever_Capsaicin/blob/master/images/hot_ones.png" width="250" />
 
@@ -72,7 +72,7 @@ Examples:
 
 
 
-## Visualization using t-SNE:
+## Clustering with K-Means and t-SNE:
 
 
 
