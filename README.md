@@ -9,8 +9,8 @@ Clever Capsaicin is a recommendation engine built to bring you out of your comfo
 - [Content-based vs Collaborative Filtering](#content-based-vs-collaborative-filtering)
 - [K-Nearest Neighbors](#k-nearest-neighbors)
 - [Cosine Similarity](#cosine-similarity)
-- [Results / Demo](#results--demo)
 - [Clustering with K-Means and t-SNE](#clustering-with-k-means-and-t-sne)
+- [Results / Demo](#results--demo)
 - [What's Next?](#whats-next)
 - [References](#references)
 
@@ -68,11 +68,11 @@ Examples:
 - Vectorization
 - TF-IDF Vectors
 
-## Results / Demo:
-
-
-
 ## Clustering with K-Means and t-SNE:
+
+
+
+## Results / Demo:
 
 
 
